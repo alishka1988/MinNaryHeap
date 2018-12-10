@@ -323,22 +323,6 @@ public E extractMin() {
         }
 		
 
-     // MinNaryHeap heap = new MinNaryHeap( 2 );
-        //heap.insertIntoHeap(5.0);
-       // heap.insertIntoHeap(2.0);
-     //  heap.insertIntoHeap(1.0);
-
-
-        //heap.traverseHeap(0);
-	     //  heap.extractMin();
-	      // heap.traverseHeap(0);
-	     //  heap.insertIntoHeap(1.0);
-	      // heap.traverseHeap(0);
-
-	      // heap.traverseHeap(1);
-//System.out.print(heap.heap_size+","+my_list.size());
-//	}
-	//*/
 	}}
 	}
 
